@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import os
 import time
 
-token = ''
+token = '1157438899:AAGO5VIRkmrT--2-aDDPVIk3DThtE-rr3Og'
 song_name = ''
 
 bot = telebot.TeleBot(token)
